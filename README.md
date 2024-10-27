@@ -22,7 +22,7 @@ A Go-based desktop application for secure and customizable password generation, 
 *Placeholder for demo GIF.*  
 Replace this with an actual demo of the application:
 
-![Demo of the app](path/to/demo.gif)
+![Demo of the app](image/image.gif)
 
 ---
 
