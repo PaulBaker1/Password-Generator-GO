@@ -10,6 +10,8 @@ package view
 
 import (
 	"fmt"
+	"password-generator/controller"
+	"password-generator/model"
 	"strconv"
 	"strings"
 
@@ -17,9 +19,6 @@ import (
 	"fyne.io/fyne/v2/app"
 	"fyne.io/fyne/v2/container"
 	"fyne.io/fyne/v2/widget"
-
-	"awesomeProject/controller"
-	"awesomeProject/model"
 )
 
 // StartGUI initializes and runs the GUI layout for the password generator.
