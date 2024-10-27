@@ -1,0 +1,48 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the build process
+/build/
+bin/
+out/
+
+# Vendor directory for dependencies
+vendor/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Fyne and other GUI cache directories
+fyne_app/
+
+# Ignore coverage files
+*.coverprofile
+coverage.out
+*.cov
+
+# Binary executables for Go programs
+*.out
+
+# Dependency management
+go.sum
