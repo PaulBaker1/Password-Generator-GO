@@ -9,8 +9,8 @@
 package main
 
 import (
-	"awesomeProject/controller"
-	"awesomeProject/view"
+	"password-generator/controller"
+	"password-generator/view"
 )
 
 // main initializes the password generator's controller and launches the GUI.

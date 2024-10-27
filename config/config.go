@@ -1,6 +1,6 @@
 package config
 
-import "awesomeProject/model"
+import "password-generator/model"
 
 // GetDefaultOptions initializes default password options.
 func GetDefaultOptions() *model.PasswordOptions {

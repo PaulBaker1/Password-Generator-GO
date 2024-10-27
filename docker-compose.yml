@@ -1,0 +1,8 @@
+version: '3'
+services:
+  password-generator-service:
+    build:
+      context: .
+      dockerfile: ../passwordGeneratorGo/Dockerfile
+    ports:
+      - "8089:8089"

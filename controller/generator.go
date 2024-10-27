@@ -9,8 +9,8 @@
 package controller
 
 import (
-	"awesomeProject/config"
-	"awesomeProject/model"
+	"password-generator/config"
+	"password-generator/model"
 )
 
 // GeneratorController manages password generation requests.
